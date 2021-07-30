@@ -22,3 +22,5 @@ a simple template for opengl with glew extension loader library
   ```
   )
   
+## Result of this template
+![Screenshot from 2021-07-30 15-09-07](https://user-images.githubusercontent.com/63631162/127634382-bbc54d51-ee21-48b5-af85-14059f3b4d4f.png)
